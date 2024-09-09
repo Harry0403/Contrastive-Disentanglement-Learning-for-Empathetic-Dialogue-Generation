@@ -5,7 +5,7 @@
 pip install -r requirements.txt
 ```
 ## Training
-go to the directory "source" then do
+go to the directory ```source``` then do
 ```
 python3 train_multi.py
 ```
@@ -17,7 +17,7 @@ Please create a directory```My_model_pth``` inside the directory ```Empathetic_D
 Then you can run the evaluation.
 
 ## Evaluation
-go outside the directory "source" then do 
+go "outside" the directory ```source``` then do 
 ```
 python3 eval_multi_continuous.py
 ```
