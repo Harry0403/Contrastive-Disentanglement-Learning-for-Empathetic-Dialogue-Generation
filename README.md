@@ -5,9 +5,18 @@
 pip install -r requirements.txt
 ```
 
-## training
+## Training
 go to the directory "source" then do
 ```
-python3 train.py
 python3 train_multi.py
 ```
+
+## Evluation
+go outside the directory "source" then do 
+```
+python3 eval_multi_continuous.py
+```
+
+## Sampleing
+Make sure to run the evluation first can create the directory what you want
+then you can run the file ```example.ipynb```
