@@ -13,8 +13,8 @@ python3 train_multi.py
 ## Model weight
 The pre-trained is provide in [Weight](https://drive.google.com/drive/folders/1n684i_F2ioNvaFFe6A4xDAVDQOz9hZmM?usp=sharing).
 Make sure the weight show be put in the right direction.
-Please create a directory```My_model_pth``` inside the directory ```Empathetic_Dialogue``` or ``` the directory ```NYCUKA```.
-Then you can run the evaluation
+Please create a directory```My_model_pth``` inside the directory ```Empathetic_Dialogue``` or the directory ```NYCUKA```.
+Then you can run the evaluation.
 
 ## Evaluation
 go outside the directory "source" then do 
