@@ -18,5 +18,6 @@ python3 eval_multi_continuous.py
 ```
 
 ## Sampleing
-Make sure to run the evluation first can create the directory what you want
+Make sure to run the evluation first \\
+you can create the directory what you want\\
 then you can run the file ```example.ipynb```
