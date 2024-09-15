@@ -1,0 +1,136 @@
+,dialogue_id,turns,text,emotion,act
+811,248,1,You said you were helpless when it came to choosing courses as you just said. It was okay because soon my senior sister was willing to let me join.,no emotion,no action
+812,248,2,"So I found other groups like this. At that time, I found other solutions.",no emotion,brief description of the semantics
+813,248,3,Yes yes,no emotion,no action
+814,248,4,Did you contact them later?,no emotion,inquire
+815,249,1,Of course we are still roommates,no emotion,no action
+816,249,2,Do they know that you actually care about this matter? Or did you discuss it when you were chatting?,no emotion,inquire
+817,249,3,"You should know that last semester, right?",no emotion,no action
+818,249,4,I should know at what time did you have the opportunity to talk about your feelings? Or did they bring it up on their own initiative?,no emotion,inquire
+819,250,1,"I calmed down for several days even though I didn’t finish the lecture. Because the grouping of that course is quite important. In fact, it has a mid-term and final report, which is quite a big project.",sad,no action
+820,250,2,It will affect your grades like this,no emotion,no action
+821,250,3,"For grades, it depends on whether you can do it or not.",no emotion,no action
+822,250,4,So it sounds like you guys talked about it a little bit more in the last few days or did they sense that you were feeling a little down?,no emotion,inquire
+823,251,1,no talk after,no emotion,no action
+824,251,2,So you didn’t actually go there seriously or you had the opportunity to discuss this situation and the course selection situation.,no emotion,brief description of the semantics
+825,251,3,"After explaining it to them, just digest it and it’s over.",sad,no action
+826,251,4,Have you thought about telling them since you care about this matter?,no emotion,inquire
+827,251,5,"No, I think they should know, but actually they know that they have been calm for several days.",no emotion,no action
+828,251,6,"Because I just heard that they are roommates, have you not talked to them for several days?",no emotion,inquire
+829,252,1,There are still some but not as many,no emotion,no action
+830,252,2,So you guess they must have felt a little different in their emotions.,no emotion,brief description of the semantics
+831,252,3,"Right, actually, I think it's more or less the same, but I didn't take the initiative to let them know.",sad,no action
+832,252,4,Why are you worried?,no emotion,inquire
+833,252,5,"It should be that I have been dealing with some things that I have encountered, but I am not very good at talking about it.",sad,no action
+834,252,6,"I want to digest these emotions first, so isn’t this quite a hard feeling?",no emotion,emotional reflection/brief description of the semantics
+835,253,1,"Maybe it's because I'm used to it, that's right",sad,no action
+836,253,2,"So if you have the chance today, would you want to tell them that you cared about it at the beginning or that you were actually very sad?",no emotion,inquire
+837,253,3,"Well, actually it's okay if I have a chance, because I want to say that I know that situation, and it's quite normal for them to do this, so I won't be too tempted to demand that I have to talk about it.",sad,no action
+838,253,4,Or tell them what you think because you understand that they can only do that under the circumstances.,no emotion,brief description of the semantics
+839,254,1,"It's not that they can only do this. In fact, they can ask first, but I think it's normal to do that.",sad,no action
+840,254,2,"But it sounds like besides course selection, I am more accustomed to digesting other things in life first.",no emotion,brief description of the semantics
+841,254,3,"Yeah, that's true for most of them",no emotion,no action
+842,254,4,"In the past, when you encountered situations other than course selection, you were quite sad or did you digest your emotions by yourself?",no emotion,inquire
+843,255,1,Not much but yes,no emotion,no action
+844,255,2,Is it related to interpersonal relationships?,no emotion,inquire
+845,255,3,It should be considered interpersonal related. I have heard before that 90% of the problems are interpersonal related.,no emotion,no action
+846,255,4,So are you willing to share that experience with me?,no emotion,inquire
+847,256,1,"Okay, it's like high school or something. In high school, there was a classmate who was missing a piece of his mind. His behavior was relatively unsocialized.",no emotion,no action
+848,256,2,So it sounds like he might not consider others too much or their emotions when interacting.,no emotion,brief description of the semantics
+849,256,3,"No, he doesn’t know where the boundaries are with other people, so he’s a boy, maybe I’m the only one in the class, and I’m reasonable. He barely knows how to talk to him, so he doesn’t understand the boundaries of the body, and then he keeps pulling me in, which is a bit of sexual harassment. Later, he was sexually harassed. When another classmate saw me, he called me to the office and asked me if I wanted to hold a sex meeting or something like that.",disgust,no action
+850,256,4,It sounds like this is uncomfortable in this interpersonal experience,no emotion,emotional reflection
+851,257,1,"Yes, but at that time I didn’t know much about how to deal with this kind of thing, but now I understand better, and that person knows that he didn’t really mean it or he just, uh, has no socialization.",disgust,no action
+852,257,2,You also understand that he didn’t know what to do when communicating about that experience at the time.,no emotion,no action
+853,258,1,"Yes, it’s just not easy to understand when people say you don’t want it, you don’t want it. There aren’t many other people like this. What impressed me most was today’s incident.",no emotion,no action
+854,258,2,"Thank you very much for sharing your interpersonal experience with me today. I think it is really sad for you to care about it now. Regardless of whether you are in a group in the university, I think you really value these friends. I didn't expect this at the time. This situation is quite sudden. Although on the one hand, it is understandable that there seems to be a time limit for course selection, there are still some people who feel as if they are not taking them seriously. They do not seem to consider you. So what do you think about what you were just talking about or describing? Do you have any other thoughts or feelings that you want to tell me?",no emotion,inquire/summary
+855,259,1,Um~No,no emotion,no action
+856,259,2,"Okay, let's go here first",no emotion,no action
+857,260,1,Today is our second meeting. Do you have any thoughts about the last meeting that you would like to share with me?,no emotion,inquire
+858,260,2,"ok, I have let go of those experiences. That’s right. I just want to lie down recently, haha.",no emotion,no action
+859,260,3,"I feel very tired recently, right?",no emotion,inquire/emotional reflection
+860,260,4,"Yes, this semester is actually fine. I have already withdrawn from one course after starting the semester. Then I only have 19 credits this semester. I am very happy.",no emotion,no action
+861,260,5,"Compared with the previous academic pressure, your academic pressure this semester has been much reduced?",no emotion,inquire/brief description of the semantics
+862,261,1,"Yes, that's right. I still want to sleep peacefully. No matter how many classes there are, there may only be one class left, I still want to sleep peacefully. My biggest dream is to be a salted fish. To be a salted fish. In fact, I just hope that I can win the lottery and then don't have to go. Work until retirement",no emotion,no action
+863,261,2,So what do you want to do with that money and how do you plan to use it?,no emotion,inquire
+864,261,3,"Some of it is invested, and the money is used to buy bonds and the like to generate more money. The other part is used to hire the chef and sweeper aunt.",happiness,no action
+865,261,4,"This is your dream, right? You don’t have to do anything. But it sounds like maybe the academic pressure isn’t that great.",no emotion,inquire
+866,262,1,"It’s actually okay now. In fact, when I entered university, I wasn’t under too much academic pressure because I think everyone has to look at how high their demands are. The higher the demands on themselves, the greater the pressure. Our department is not one of the electrical engineering departments. For the category, you have to roll up to 4:3, and then everyone has to choose the score so that the first place can be determined.",no emotion,no action
+867,262,2,So how would you rate yourself on a scale of one to ten because it sounds like it's been a while since I've been here.,no emotion,inquire
+868,262,3,Are you talking about pressure? The pressure value I feel is probably six points recently.,no emotion,no action
+869,262,4,How do you rate six points? Do you think six points is more or less?,no emotion,no action
+870,262,5,"A score of six is ​​a bit higher than average. It should be said that it's on the high side and it's not bad. It's still within the range I can withstand. I'm under a lot of pressure because the coursework is not good enough for me. I have to get A+ in every subject. That's okay, but I have many clubs, so things become quite complicated.",no emotion,no action
+871,262,6,"So it sounds like in addition to school life and homework, you also participate in other activities. What are the activities?",no emotion,inquire/brief description of the semantics
+872,263,1,"There are quite a lot of things. I really can’t write anything on my resume, but there are a lot of clubs. I first joined the equestrian club and then the equestrian club collapsed because there was no one to take over. No one wanted to take over the cadre. I was a first-year member of the United Equestrian Club in Qingjiao. I also participated in the Sanda Fighting Club. I may go there tonight. Then last semester, there was a plus. Not last semester, last semester, there was a sign language socialization. It seems that the sign language club was established in the 1960s of the Republic of China, and then it fell down. I added one plus all. fall down",happiness,no action
+873,263,2,Which club is your favorite or most impressive experience?,no emotion,inquire
+874,264,1,"I haven’t finished talking yet. There is also the badminton team or the captain’s club in the department. I think the equestrian club is quite cool. But uh, I didn’t have much opportunity to get in touch with this thing before. Then one class outside costs one or two thousand yuan. It was like this when I was young. Then we went there to help clean and then changed to horse riding because it was too far. I went there a few times and it was very cold. The equestrian club was very cool. The sign language club was also cool. I was exposed to some new things. Then what did the senior of the sign language club say? A rare sign language prodigy in the year",happiness,no action
+875,264,2,"It sounds like you are actually exposed to quite novel things in these societies, which may be something you have not encountered in your previous life experience.",no emotion,brief description of the semantics
+876,265,1,Right,no emotion,no action
+877,265,2,Do you think the club can help your body and mind?,no emotion,inquire
+878,265,3,"That's right. In fact, regulating the body and mind is reading novels and playing tricks. Things that really make you relax are like this. Lie down. The club just provides an exploration. Playing badminton is really because being the captain is aka everyone's servant, right?",no emotion,no action
+879,265,4,"There are many things to take care of, right?",no emotion,no action
+880,266,1,"I asked the vice-captain to find a football manager to help me share the load, so it was okay, but every practice has to be there. We play two days a week, and it takes a lot of time from 7 to 11 o'clock.",no emotion,no action
+881,266,2,It takes time to spend time in a lot of clubs or activities where you may have to take care of other people. It’s quite fun to listen to you. Do you like it if you are keen on these activities?,no emotion,inquire/emotional reflection
+882,266,3,"Actually, the better way is to lie down flat",no emotion,no action
+883,266,4,This is the way to make you comfortable,no emotion,no action
+884,267,1,"Yes, it’s because there were only three of us in that class and we had no choice but to find one person to be the captain.",no emotion,no action
+885,267,2,Do you think you have a responsibility?,no emotion,emotional reflection
+886,267,3,"Yes, it’s a small responsibility and I’ll find a way to share it out",no emotion,no action
+887,267,4,Is that responsibility to maintain the operation of the association?,no emotion,inquire
+888,267,5,Tackle chores,no emotion,no action
+889,267,6,"So if you didn't continue to do it, someone else might have to take on this responsibility.",no emotion,inquire
+890,268,1,It doesn’t feel right to leave it to my younger classmates.,no emotion,no action
+891,268,2,How to say,no emotion,inquire
+892,268,3,"We usually become captains in our junior year, or we become captains in our sophomore year, which means they have to be captain for two years. Because my roommate is the captain of the women's basketball team, she will be captain for two years. It's very hard.",no emotion,no action
+893,268,4,How do you say that hard work?,no emotion,no action
+894,269,1,"They will have more women's basketball activities. In the past, most of the seniors went back to their parents' homes and so on. We all went to have dinner together to connect with each other. But we have to plan something like this. And is there a vice-captain who doesn't have any basketball experience to help her? We are here alone. Do it over there",no emotion,no action
+895,269,2,It sounds like you have to take care of a lot of things alone.,no emotion,brief description of the semantics
+896,269,3,"Yes, so there are relatively few of them, and no one is helping her to share the load. But this way, it sounds like the academic pressure is a six point, so being able to lie down is a four point.",no emotion,no action
+897,269,4,What does it mean to be able to lie flat is four points?,no emotion,no action
+898,270,1,It means I can feel more comfortable and I can adjust it a bit. You said the total is very possible.,no emotion,no action
+899,270,2,What do you think your ideal stress level should be?,no emotion,inquire
+900,270,3,"Actually, I think it’s pretty good now. In fact, I can’t feel the pain until I take the Duan exam. After the Duan exam, it will be a little more compact. This semester, I don’t know, maybe I haven’t reached that yet. I haven’t reached death yet. I don’t know yet, but I'm quite relaxed now and don't dare to talk too much.",no emotion,no action
+901,270,4,"In the past, do you think the six points have changed during the Duan Exam Week?",no emotion,inquire
+902,271,1,"Yes, it wasn’t so obvious in the first few semesters, but last semester there were a lot of group reports and they were all crammed together into five and six subjects every week, and then after registering for one subject, I went on to the next.",no emotion,no action
+903,271,2,This means that you may have to complete a lot of things in the same period of time,no emotion,brief description of the semantics
+904,271,3,It’s this kind of painful thing that sometimes feels good in retrospect,no emotion,no action
+905,271,4,How to say,no emotion,inquire
+906,272,1,"I stayed up until 6:30 the day before, then went back to sleep for an hour, and then went on stage to report at 8:30, which made me feel great.",happiness,no action
+907,272,2,"So it sounds like it was quite hard at the moment, but in retrospect, I realized that it also stimulated my potential, right?",no emotion,brief description of the semantics
+908,272,3,"Maybe the end of the report depends on the professor's office. When it's past ten o'clock, he can't hold on anymore, so he invites the seniors to come over and continue to do it successfully. I'm a professor and a teaching assistant.",no emotion,no action
+909,272,4,There are quite a few people who can help me deal with this.,no emotion,brief description of the semantics
+910,272,5,Professors are very useful when personal abilities are limited.,no emotion,no action
+911,272,6,"Others can help, so you don’t have to work alone. Do you feel nervous when asking professors for help or calling out seniors?",no emotion,inquire/brief description of the semantics
+912,273,1,"No, we just can't finish it and we're not in the mood to think about those things. Hurry up and find someone to drag someone into the water first.",no emotion,no action
+913,273,2,It sounds like the academic pressure is not bad. Maybe life in school. How would you describe him?,no emotion,inquire/brief description of the semantics
+914,273,3,Life in school is pretty good. It would be even better if I could get rid of the captain status quickly and pass it on to the next class. Because the next big exam is a competition jointly organized by the transportation department.,no emotion,no action
+915,273,4,There may be a lot of things to deal with,no emotion,brief description of the semantics
+916,274,1,"It’s not too much. The team and the assistant team helped me carry it, but they kept changing the date, and then they changed the dates. In fact, different sports are different time periods, so I couldn’t book a tour bus to go there. Maybe everyone You still have to go there by yourself. Maybe you can handle the transportation yourself.",no emotion,no action
+917,274,2,Maybe it will take more time to solve the problem of transportation.,no emotion,brief description of the semantics
+918,274,3,"Yes, and where are the hotels? It’s in Keelung or Haida.",no emotion,no action
+919,274,4,It's really not an easy place to get to.,no emotion,brief description of the semantics
+920,275,1,Looking for motels may be a bit too expensive for students.,no emotion,no action
+921,275,2,So do you have any ideas or plans on how to deal with this traffic problem?,no emotion,inquire
+922,275,3,"It’s probably still being discussed, but if we don’t charter a car, I think we’ll go separately. It’s possible. It’s indeed a solution. It was like this last year, but this way we still don’t have the excitement of traveling together.",sad,no action
+923,275,4,"If you can't solve it, it seems that you are going to that place separately, but if you want to stay there, you can probably book it together.",no emotion,no action
+924,275,5,There are people to help with it,no emotion,no action
+925,275,6,"So there may be people who can help with this matter, so don’t worry too much.",no emotion,brief description of the semantics
+926,276,1,Try your best to shirk responsibility,no emotion,no action
+927,276,2,It sounds like he is the captain at the moment. When will he retire?,no emotion,inquire
+928,276,3,This is what June will look like after it’s over,no emotion,no action
+929,276,4,What are your plans for the future? Do you have any ideas?,no emotion,inquire
+930,276,5,"It means you don’t have to play for so long. There aren’t many games. We’ve even decided on the next one because there are only two juniors for the next one. Yes, juniors, but seniors don’t have this.",no emotion,no action
+931,276,6,Sounds like it's going pretty well so far,no emotion,inquire
+932,277,1,"In fact, after I talk so much, have you noticed that I am a nerd?",no emotion,no action
+933,277,2,"You prefer activities at home, right?",no emotion,brief description of the semantics
+934,277,3,Then I don’t know why I did so many activities and joined so many clubs.,no emotion,no action
+935,277,4,"I’m also quite curious. Since for you, staying at home should be a more relaxing and comfortable way. What’s your motivation for participating in so many activities?",no emotion,inquire
+936,278,1,"Because I haven't been exposed to it before, and I may not be exposed to things in the future. Like the equestrian club, sign language is very cool, and it may be difficult to come into contact with it. Now it's a little bit more dirty than some swear words, yes, and then uh, yes, and maybe it's because I'm in school. So it’s not very far, so of course it’s quite convenient.",no emotion,no action
+937,278,2,It is a place where you can conveniently experience various activities,no emotion,brief description of the semantics
+938,278,3,That's right,no emotion,no action
+939,278,4,"In addition to experience, do you think these activities have brought you any gains? After all, the nature is quite different. It is more like a special way of communication than animal sign language. Is there anything else you mentioned just now?",no emotion,inquire
+940,279,1,"Badminton Sanda is more sports-oriented. In fact, most of them are sports-oriented. The reward is that I learned some new things.",no emotion,no action
+941,279,2,This should be more about exploring different things,no emotion,brief description of the semantics
+942,279,3,"Yes, there are some cool things, like you are definitely not right. I don’t know if you have ever come into contact with a horse. They often come into contact with it. Their heads are super big. Of course, they are so big. Of course, I feel that it is a different world. I have never seen this huge creature.",no emotion,no action
+943,279,4,Did you meet any friends or different people by participating in this event?,no emotion,inquire
+944,279,5,"Of course there must be, and um, I have been in Xiyu for a long time, so I am more familiar with the senior sisters, and then I know people and there are all kinds of things.",no emotion,no action
+945,279,6,Is there anyone who impresses you?,no emotion,inquire
