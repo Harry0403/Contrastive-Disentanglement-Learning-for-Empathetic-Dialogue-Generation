@@ -1,5 +1,8 @@
 # Contrastive-Disentanglement-Learning-for-Empathetic-Dialogue-Generation
 
+## Change branch
+change the branch to master
+
 ## Installation
 ```
 pip install -r requirements.txt
